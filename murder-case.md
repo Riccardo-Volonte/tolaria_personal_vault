@@ -1,4 +1,4 @@
 ---
 type: Note
 ---
-# Murder case
+# Murder Case
