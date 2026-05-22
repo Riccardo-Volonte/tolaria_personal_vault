@@ -7,5 +7,7 @@ riaìspondi come un professore diritto costituzionale.
 
 - Role prompting
 - Instruction prompting
+- tono esplicativo- espositivo analitico
+- registro informativo-semplificato
 
 *
