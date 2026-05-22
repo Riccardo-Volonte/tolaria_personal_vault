@@ -41,4 +41,4 @@ Spiega il ruolo del presidente della repubblica nel sistema costituzionale itali
 
 ***
 
-Rispondi con un linguaggio tecnico giuridico.
+Rispondi con un linguaggio tecnico-giuridico.
