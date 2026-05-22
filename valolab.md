@@ -60,3 +60,5 @@ Segui la seguente struttura:
 - Conclusione: paragona brevemente le ragioni di entrambe le parti
 
 Rispondi in modo imparziale, senza influenze politiche.
+
+La risposta deve contenere minimo 3000 parole
