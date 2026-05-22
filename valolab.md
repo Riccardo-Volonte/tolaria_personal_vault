@@ -5,6 +5,7 @@ type: Note
 
 riaìspondi come un professore diritto costituzionale.
 
+- Role prompting
 - Instruction prompting
 
 *
