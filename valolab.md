@@ -52,12 +52,11 @@ Argomenta la tesi: questo modello non è abbastanza trasparente verso i partecip
 
 Segui la seguente struttura:
 
-- Tesi: presenta il caso ed i temi rilevanti
-- Argomentazioni: spiega in quale modo i partecipanti sentono che il sistema non garantice sufficiente trasparenza nei loro confronti
+- Argomentazioni a favore: spiega in quale modo i partecipanti sentono che il sistema non garantice sufficiente trasparenza nei loro confronti
 - Obiezioni: argomenta come mai il sistema automatizzato andrebbe mantenuto
 - Fonti: cita fonti rilevanti in merito alla questione
 - Precedenti: cita dei precedenti simili a questo caso, solo se esistenti.
-- Conclusione: paragona brevemente le ragioni di entrambe le parti
+- Conclusione: paragona brevemente le ragioni di entrambe le parti e proponi una soluzione.
 
 Rispondi in modo imparziale, senza influenze politiche.
 
