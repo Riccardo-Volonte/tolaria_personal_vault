@@ -21,4 +21,20 @@ Confronto: confronta il referendum abrogativo con altri strumenti di democrazia 
 
 esercizio 2
 
-Spiega come se ti stessi rivolgendo ad uno studente del corso di Diritto Costituzionale
+**RAV** prompting
+
+[Allego appunti relativi all'argomento]
+
+Rispondi basandoti sugli appunti allegati.
+
+Spiega il ruolo del presidente della repubblica nel sistema costituzionale italiano.
+
+Spiega come se ti stessi rivolgendo ad uno studente del corso di Diritto Costituzionale.
+
+instruction prompting
+
+[allego appunti relativi all'argomento]
+
+rispondi basandoti sugli appunti allegati.
+
+Spiega il ruolo del presidente della repubblica nel sistema costituzionale italiano seguento la seguente struttura: 1) da chi è eletto 2)quanto dura il suo mandato 3)qual è il suo ruolo 4)quali fonti disciplinano il suo ruolo. Rispondi come se stessi spiegando l'argomento a degli studenti di giurisprudenza del primo anno.
