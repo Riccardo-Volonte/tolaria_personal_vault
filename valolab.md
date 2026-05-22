@@ -16,3 +16,9 @@ Confronto: confronta il referendum abrogativo con altri strumenti di democrazia 
 - Role prompting / Tono esplicativo, stile espositivo-analitico, registro informativo-esplicativo
 - Prompt con definizione del pubblico
 - Instruction prompting
+
+***
+
+esercizio 2
+
+Spiega come se ti stessi rivolgendo ad uno studente del corso di Diritto Costituzionale
