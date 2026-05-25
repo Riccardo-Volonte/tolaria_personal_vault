@@ -1,5 +1,6 @@
 ---
-type: Note
+type: Sistemi Informativi
+_organized: true
 ---
 # Capitolo 1
 
