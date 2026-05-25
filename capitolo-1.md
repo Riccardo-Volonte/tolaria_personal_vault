@@ -1,6 +1,5 @@
 ---
 type: Note
-_organized: true
 ---
 # Capitolo 1
 
